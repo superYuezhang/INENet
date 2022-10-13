@@ -1,6 +1,5 @@
 # INENet: Inliers Estimation Network with Similarity Learning for Partial Overlapping Registration
 
-------
 
 #### We will release our code soon.
 
