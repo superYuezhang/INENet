@@ -1,5 +1,5 @@
 # INENet: Inliers Estimation Network with Similarity Learning for Partial Overlapping Registration
-
+by Yue Wu, Yue Zhang, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma, and details are in [paper](https://ieeexplore.ieee.org/document/9915616).
 
 #### We will release our code soon.
 
