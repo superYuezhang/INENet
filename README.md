@@ -2,6 +2,13 @@
 
 by Yue Wu, Yue Zhang, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma, and details are in [paper](https://ieeexplore.ieee.org/document/9915616).
 
+## Usage
+
+Clone the repository.
+
+Change the "DATA_DIR" parameter in line 14 of the "data_utils.py" file to its own data set folder path.
+
+Run the "main.py" file.
 
 ## Requirement
 
