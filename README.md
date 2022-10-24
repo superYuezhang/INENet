@@ -22,6 +22,10 @@ Run the "main.py" file.
 
 ​	scikit-learn=1.1.1
 
+​	transforms3d=0.4.1
+
+​	tensorboardX=1.15.0
+
 ​	tqdm
 
 ​	numpy
@@ -51,3 +55,6 @@ If you find the code or trained models useful, please consider citing:
 }
 ```
 
+## Acknowledgement
+
+Our code refers to [PointNet](https://github.com/fxia22/pointnet.pytorch), [DCP](https://github.com/WangYueFt/dcp) and [MaskNet](https://github.com/vinits5/masknet). We want to thank the above open-source projects.
