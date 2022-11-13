@@ -4,11 +4,11 @@ by Yue Wu, Yue Zhang, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma, and d
 
 ## Usage
 
-Clone the repository.
+1. Clone the repository.
 
-Change the "DATA_DIR" parameter in line 14 of the "data_utils.py" file to its own data set folder path.
+2. Change the "DATA_DIR" parameter in line 14 of the "data_utils.py" file to its own data set folder path.
 
-Run the "main.py" file.
+3. Run the "main.py" file.
 
 ## Requirement
 
