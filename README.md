@@ -50,7 +50,7 @@ If you find the code or trained models useful, please consider citing:
   year={2022}, 
   volume={},  
   number={}, 
-  pages={1-1},  
+  pages={},  
   doi={10.1109/TCSVT.2022.3213592}
 }
 ```
